@@ -1,0 +1,205 @@
+{
+	"articles": [
+	{
+		"name": "Nr. 42",
+		"article": "030086",
+		"feature": "",
+		"type": "Grid",
+		"material": "Stainless Steel",
+		"price": "4.20"
+	},
+	{
+		"name": "Nr. 42",
+		"article": "030163",
+		"feature": "",
+		"type": "Grid",
+		"material": "Painted Steel",
+		"price": "5.60"
+	},
+	{
+		"name": "Nr. 43",
+		"article": "040254",
+		"feature": "32",
+		"type": "Tube",
+		"material": "Painted Steel",
+		"price": "5.60"
+	},
+	{
+		"name": "Nr. 43",
+		"article": "040255",
+		"feature": "32",
+		"type": "Tube",
+		"material": "Stainless Steel",
+		"price": "4.20"
+	},
+	{
+		"name": "Nr. 44",
+		"article": "040284",
+		"feature": "140",
+		"type": "Tube",
+		"material": "Stainless Steel",
+		"price": "4.20"
+	},
+	{
+		"name": "Nr. 42 L",
+		"article": "030407",
+		"feature": "",
+		"type": "Grid",
+		"material": "Stainless Steel",
+		"price": "4.20"
+	},
+	{
+		"name": "Nr. 42 L",
+		"article": "030408",
+		"feature": "",
+		"type": "Grid",
+		"material": "Painted Steel",
+		"price": "5.60"
+	},
+	{
+		"name": "End Caps",
+		"article": "040266",
+		"feature": "120",
+		"type": "Tube",
+		"material": "PVC",
+		"price": "8.10"
+	},
+	{
+		"name": "End Caps",
+		"article": "020050",
+		"feature": "32",
+		"type": "Tube",
+		"material": "PVC",
+		"price": "1.50"
+	},
+	{
+		"name": "Connection Sleeves",
+		"article": "040267",
+		"feature": "120",
+		"type": "Tube",
+		"material": "Aluminium",
+		"price": "13.35"
+	},
+	{
+		"name": "Connection Sleeves",
+		"article": "020010",
+		"feature": "13/13",
+		"type": "Grid",
+		"material": "Stainless Steel",
+		"price": "0.77"
+	},
+	{
+		"name": "Connection Sleeves",
+		"article": "020024",
+		"feature": "13/13",
+		"type": "Grid",
+		"material": "Painted Steel",
+		"price": "1.75"
+	},
+	{
+		"name": "Connection Sleeves",
+		"article": "020033",
+		"feature": "15/15",
+		"type": "Grid",
+		"material": "Copper",
+		"price": "0.00"
+	},
+	{
+		"name": "Connection Sleeves",
+		"article": "020012",
+		"feature": "17/17",
+		"type": "Grid",
+		"material": "Stainless Steel",
+		"price": "0.88"
+	},
+	{
+		"name": "Connection Sleeves",
+		"article": "020025",
+		"feature": "17/17",
+		"type": "Grid",
+		"material": "Painted Steel",
+		"price": "1.90"
+	},
+	{
+		"name": "Connection Sleeves",
+		"article": "020013",
+		"feature": "20/20",
+		"type": "Grid",
+		"material": "Stainless Steel",
+		"price": "0.88"
+	},
+	{
+		"name": "Connection Sleeves",
+		"article": "020026",
+		"feature": "20/20",
+		"type": "Grid",
+		"material": "Painted Steel",
+		"price": "1.90"
+	},
+	{
+		"name": "Connection Sleeves",
+		"article": "020034",
+		"feature": "20/20",
+		"type": "Grid",
+		"material": "Copper",
+		"price": "0.00"
+	},
+	{
+		"name": "Connection Sleeves",
+		"article": "020048",
+		"feature": "28",
+		"type": "Tube",
+		"material": "Copper",
+		"price": "0.00"
+	},
+	{
+		"name": "Connection Sleeves",
+		"article": "020018",
+		"feature": "32",
+		"type": "Tube",
+		"material": "PVC",
+		"price": "2.70"
+	},
+	{
+		"name": "Connection Sleeves",
+		"article": "020037",
+		"feature": "35",
+		"type": "Tube",
+		"material": "Copper",
+		"price": "0.00"
+	},
+	{
+		"name": "Connection Sleeves",
+		"article": "020056",
+		"feature": "for profiled Grid Retainer",
+		"type": "Grid",
+		"material": "Zink Steel",
+		"price": "1.10"
+	},
+	{
+		"name": "Connection Sleeves",
+		"article": "050118",
+		"feature": "Royal-Color",
+		"type": "Grid-Royal",
+		"material": "Painted Steel",
+		"price": "1.90"
+	},
+	{
+		"name": "Ice Retainer",
+		"article": "030250",
+		"feature": "32",
+		"type": "Tube",
+		"material": "Copper",
+		"price": "0.00",
+		"roof-type": "standing-seam-sheet"
+	},
+	{
+		"name": "Ice Retainer",
+		"article": "030284",
+		"feature": "32",
+		"type": "Tube",
+		"material": "Aluminium",
+		"price": "3.10"
+	}
+	]
+}

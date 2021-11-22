@@ -1,0 +1,180 @@
+{
+	"articles": [
+	{
+		"name": "Tube Retainer",
+		"article": "040258",
+		"feature": "120",
+		"measure": "3000",
+		"material": "Aluminium",
+		"price": "24.65"
+	},
+	{
+		"name": "Tube Retainer",
+		"article": "040259",
+		"feature": "120",
+		"measure": "3000",
+		"material": "Painted Steel",
+		"price": "33.80"
+	},
+	{
+		"name": "Tube Retainer",
+		"article": "020046",
+		"feature": "28",
+		"measure": "2500",
+		"material": "Copper",
+		"price": "0.00"
+	},
+	{
+		"name": "Tube Retainer",
+		"article": "020017",
+		"feature": "32",
+		"measure": "3000",
+		"material": "Aluminium",
+		"price": "8.55"
+	},
+	{
+		"name": "Tube Retainer",
+		"article": "020042",
+		"feature": "32",
+		"measure": "3000",
+		"material": "Painted Steel",
+		"price": "15.55"
+	},
+	{
+		"name": "Tube Retainer",
+		"article": "020036",
+		"feature": "35",
+		"measure": "2500",
+		"material": "Copper",
+		"price": "0.00"
+	},
+	{
+		"name": "Grid Retainer",
+		"article": "020001",
+		"feature": "200",
+		"measure": "13/13/2",
+		"material": "Zink Steel",
+		"price": "4.81"
+	},
+	{
+		"name": "Grid Retainer",
+		"article": "020019",
+		"feature": "200",
+		"measure": "13/13/2",
+		"material": "Painted Steel",
+		"price": "12.90"
+	},
+	{
+		"name": "Grid Retainer",
+		"article": "020027",
+		"feature": "200",
+		"measure": "15/15/2",
+		"material": "Copper",
+		"price": "0.00"
+	},
+	{
+		"name": "Grid Retainer",
+		"article": "020003",
+		"feature": "200",
+		"measure": "17/17/2,5",
+		"material": "Zink Steel",
+		"price": "7.82"
+	},
+	{
+		"name": "Grid Retainer",
+		"article": "020020",
+		"feature": "200",
+		"measure": "17/17/2,5",
+		"material": "Painted Steel",
+		"price": "15.70"
+	},
+	{
+		"name": "Grid Retainer",
+		"article": "020005",
+		"feature": "200",
+		"measure": "20/20/2",
+		"material": "Zink Steel",
+		"price": "8.63"
+	},
+	{
+		"name": "Grid Retainer",
+		"article": "020006",
+		"feature": "200",
+		"measure": "20/20/3",
+		"material": "Zink Steel",
+		"price": "10.11"
+	},
+	{
+		"name": "Grid Retainer",
+		"article": "020022",
+		"feature": "200",
+		"measure": "20/20/3",
+		"material": "Painted Steel",
+		"price": "16.85"
+	},
+	{
+		"name": "Grid Retainer",
+		"article": "020028",
+		"feature": "200",
+		"measure": "20/20/3",
+		"material": "Copper",
+		"price": "0.00"
+	},
+	{
+		"name": "Grid Retainer",
+		"article": "020007",
+		"feature": "250",
+		"measure": "20/20/3",
+		"material": "Zink Steel",
+		"price": "10.66"
+	},
+	{
+		"name": "Grid Retainer",
+		"article": "020023",
+		"feature": "250",
+		"measure": "20/20/3",
+		"material": "Painted Steel",
+		"price": "18.20"
+	},
+	{
+		"name": "Grid Retainer Royal-Color",
+		"article": "020045",
+		"feature": "200",
+		"measure": "1500",
+		"material": "Painted Steel",
+		"price": "18.35"
+	},
+	{
+		"name": "Grid Retainer Royal-Color",
+		"article": "020039",
+		"feature": "200",
+		"measure": "3000",
+		"material": "Painted Steel",
+		"price": "18.35"
+	},
+	{
+		"name": "Grid Retainer Royal-Color",
+		"article": "020040",
+		"feature": "250",
+		"measure": "3000",
+		"material": "Painted Steel",
+		"price": "20.60"
+	},
+	{
+		"name": "Profiled Grid Retainer in Alu-Zink Metal",
+		"article": "020065",
+		"feature": "200",
+		"measure": "1500",
+		"material": "Aluminium",
+		"price": "13.80"
+	},
+	{
+		"name": "Profiled Grid Retainer in Alu-Zink Metal",
+		"article": "020067",
+		"feature": "200",
+		"measure": "1500",
+		"material": "Painted Steel",
+		"price": "17.70"
+	}
+	]
+}

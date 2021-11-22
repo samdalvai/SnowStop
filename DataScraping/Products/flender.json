@@ -1,0 +1,1964 @@
+{
+	"articles": [
+	{
+		"name": "Tube",
+		"article": "040258",
+		"feature": "120",
+		"measure": "3000",
+		"material": "Aluminium",
+		"price": "24.65"
+	},
+	{
+		"name": "Tube",
+		"article": "040259",
+		"feature": "120",
+		"measure": "3000",
+		"material": "Painted Steel",
+		"price": "33.80"
+	},
+	{
+		"name": "Tube",
+		"article": "020046",
+		"feature": "28",
+		"measure": "2500",
+		"material": "Copper",
+		"price": "0.00"
+	},
+	{
+		"name": "Tube",
+		"article": "020017",
+		"feature": "32",
+		"measure": "3000",
+		"material": "Aluminium",
+		"price": "8.55"
+	},
+	{
+		"name": "Tube",
+		"article": "020042",
+		"feature": "32",
+		"measure": "3000",
+		"material": "Painted Steel",
+		"price": "15.55"
+	},
+	{
+		"name": "Tube",
+		"article": "020036",
+		"feature": "35",
+		"measure": "2500",
+		"material": "Copper",
+		"price": "0.00"
+	},
+	{
+		"name": "Nr. 42",
+		"article": "030086",
+		"feature": "",
+		"measure": "",
+		"material": "Stainless Steel",
+		"price": "4.20"
+	},
+	{
+		"name": "Nr. 42",
+		"article": "030163",
+		"feature": "",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "5.60"
+	},
+	{
+		"name": "Nr. 43",
+		"article": "040254",
+		"feature": "",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "5.60"
+	},
+	{
+		"name": "Nr. 43",
+		"article": "040255",
+		"feature": "",
+		"measure": "",
+		"material": "Stainless Steel",
+		"price": "4.20"
+	},
+	{
+		"name": "Nr. 44",
+		"article": "040284",
+		"feature": "",
+		"measure": "",
+		"material": "Stainless Steel",
+		"price": "4.20"
+	},
+	{
+		"name": "Nr. 42 L",
+		"article": "030407",
+		"feature": "",
+		"measure": "",
+		"material": "Stainless Steel",
+		"price": "4.20"
+	},
+	{
+		"name": "Nr. 42 L",
+		"article": "030408",
+		"feature": "",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "5.60"
+	},
+	{
+		"name": "End Caps",
+		"article": "040266",
+		"feature": "120",
+		"measure": "",
+		"material": "PVC",
+		"price": "8.10"
+	},
+	{
+		"name": "End Caps",
+		"article": "020050",
+		"feature": "32",
+		"measure": "",
+		"material": "PVC",
+		"price": "1.50"
+	},
+	{
+		"name": "Grid Retainer",
+		"article": "020000",
+		"feature": "150",
+		"measure": "13/13/2",
+		"material": "Zink Steel",
+		"price": "4.81"
+	},
+	{
+		"name": "Grid Retainer",
+		"article": "020001",
+		"feature": "200",
+		"measure": "13/13/2",
+		"material": "Zink Steel",
+		"price": "4.81"
+	},
+	{
+		"name": "Grid Retainer",
+		"article": "020019",
+		"feature": "200",
+		"measure": "13/13/2",
+		"material": "Painted Steel",
+		"price": "12.90"
+	},
+	{
+		"name": "Grid Retainer",
+		"article": "020027",
+		"feature": "200",
+		"measure": "15/15/2",
+		"material": "Copper",
+		"price": "0.00"
+	},
+	{
+		"name": "Grid Retainer",
+		"article": "020003",
+		"feature": "200",
+		"measure": "17/17/2,5",
+		"material": "Zink Steel",
+		"price": "7.82"
+	},
+	{
+		"name": "Grid Retainer",
+		"article": "020020",
+		"feature": "200",
+		"measure": "17/17/2,5",
+		"material": "Painted Steel",
+		"price": "15.70"
+	},
+	{
+		"name": "Grid Retainer",
+		"article": "020005",
+		"feature": "200",
+		"measure": "20/20/2",
+		"material": "Zink Steel",
+		"price": "8.63"
+	},
+	{
+		"name": "Grid Retainer",
+		"article": "020006",
+		"feature": "200",
+		"measure": "20/20/3",
+		"material": "Zink Steel",
+		"price": "10.11"
+	},
+	{
+		"name": "Grid Retainer",
+		"article": "020022",
+		"feature": "200",
+		"measure": "20/20/3",
+		"material": "Painted Steel",
+		"price": "16.85"
+	},
+	{
+		"name": "Grid Retainer",
+		"article": "020028",
+		"feature": "200",
+		"measure": "20/20/3",
+		"material": "Copper",
+		"price": "0.00"
+	},
+	{
+		"name": "Grid Retainer",
+		"article": "020007",
+		"feature": "250",
+		"measure": "20/20/3",
+		"material": "Zink Steel",
+		"price": "10.66"
+	},
+	{
+		"name": "Grid Retainer",
+		"article": "020023",
+		"feature": "250",
+		"measure": "20/20/3",
+		"material": "Painted Steel",
+		"price": "18.20"
+	},
+	{
+		"name": "Connection Sleeves",
+		"article": "040267",
+		"feature": "120",
+		"measure": "",
+		"material": "Aluminium",
+		"price": "13.35"
+	},
+	{
+		"name": "Connection Sleeves",
+		"article": "020010",
+		"feature": "13/13",
+		"measure": "",
+		"material": "Stainless Steel",
+		"price": "0.77"
+	},
+	{
+		"name": "Connection Sleeves",
+		"article": "020024",
+		"feature": "13/13",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "1.75"
+	},
+	{
+		"name": "Connection Sleeves",
+		"article": "020033",
+		"feature": "15/15",
+		"measure": "",
+		"material": "Copper",
+		"price": "0.00"
+	},
+	{
+		"name": "Connection Sleeves",
+		"article": "020012",
+		"feature": "17/17",
+		"measure": "",
+		"material": "Stainless Steel",
+		"price": "0.88"
+	},
+	{
+		"name": "Connection Sleeves",
+		"article": "020025",
+		"feature": "17/17",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "1.90"
+	},
+	{
+		"name": "Connection Sleeves",
+		"article": "020013",
+		"feature": "20/20",
+		"measure": "",
+		"material": "Stainless Steel",
+		"price": "0.88"
+	},
+	{
+		"name": "Connection Sleeves",
+		"article": "020026",
+		"feature": "20/20",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "1.90"
+	},
+	{
+		"name": "Connection Sleeves",
+		"article": "020034",
+		"feature": "20/20",
+		"measure": "",
+		"material": "Copper",
+		"price": "0.00"
+	},
+	{
+		"name": "Connection Sleeves",
+		"article": "020048",
+		"feature": "28",
+		"measure": "",
+		"material": "Copper",
+		"price": "0.00"
+	},
+	{
+		"name": "Connection Sleeves",
+		"article": "020018",
+		"feature": "32",
+		"measure": "",
+		"material": "PVC",
+		"price": "2.70"
+	},
+	{
+		"name": "Connection Sleeves",
+		"article": "020037",
+		"feature": "35",
+		"measure": "",
+		"material": "Copper",
+		"price": "0.00"
+	},
+	{
+		"name": "Connection Sleeves",
+		"article": "020056",
+		"feature": "for profiled Grid Retainer",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "1.10"
+	},
+	{
+		"name": "Connection Sleeves",
+		"article": "050118",
+		"feature": "Royal-Color",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "1.90"
+	},
+	{
+		"name": "Grid Retainer Royal-Color",
+		"article": "020045",
+		"feature": "200",
+		"measure": "1500",
+		"material": "Painted Steel",
+		"price": "18.35"
+	},
+	{
+		"name": "Grid Retainer Royal-Color",
+		"article": "020039",
+		"feature": "200",
+		"measure": "3000",
+		"material": "Painted Steel",
+		"price": "18.35"
+	},
+	{
+		"name": "Grid Retainer Royal-Color",
+		"article": "020040",
+		"feature": "250",
+		"measure": "3000",
+		"material": "Painted Steel",
+		"price": "20.60"
+	},
+	{
+		"name": "Profiled Grid Retainer in Alu-Zink Metal",
+		"article": "020065",
+		"feature": "Alu-Zinknatur",
+		"measure": "1500",
+		"material": "Aluminium",
+		"price": "13.80"
+	},
+	{
+		"name": "Profiled Grid Retainer in Alu-Zink Metal",
+		"article": "020067",
+		"feature": "painted",
+		"measure": "1500",
+		"material": "Painted Steel",
+		"price": "17.70"
+	},
+	{
+		"name": "Nr. 1q",
+		"article": "030391",
+		"feature": "for nailing",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "1.80"
+	},
+	{
+		"name": "Nr. 41",
+		"article": "030108",
+		"feature": "for hanging",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "2.19"
+	},
+	{
+		"name": "Nr. 41",
+		"article": "030182",
+		"feature": "for hanging",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "4.40"
+	},
+	{
+		"name": "Nr. 59",
+		"article": "030029",
+		"feature": "200",
+		"measure": "25x6",
+		"material": "Zink Steel",
+		"price": "8.31"
+	},
+	{
+		"name": "Nr. 59",
+		"article": "030132",
+		"feature": "200",
+		"measure": "25x6",
+		"material": "Painted Steel",
+		"price": "13.95"
+	},
+	{
+		"name": "Nr. 59",
+		"article": "030218",
+		"feature": "200",
+		"measure": "25x6",
+		"material": "Copper",
+		"price": "0.00"
+	},
+	{
+		"name": "Nr. 59",
+		"article": "030214",
+		"feature": "200",
+		"measure": "30x6",
+		"material": "Copper",
+		"price": "0.00"
+	},
+	{
+		"name": "Nr. 61",
+		"article": "030045",
+		"feature": "200",
+		"measure": "25x6",
+		"material": "Zink Steel",
+		"price": "6.56"
+	},
+	{
+		"name": "Nr. 61",
+		"article": "030141",
+		"feature": "200",
+		"measure": "25x6",
+		"material": "Painted Steel",
+		"price": "12.15"
+	},
+	{
+		"name": "Nr. 61",
+		"article": "030231",
+		"feature": "200",
+		"measure": "30x6",
+		"material": "Copper",
+		"price": "0.00"
+	},
+	{
+		"name": "Nr. 61",
+		"article": "030048",
+		"feature": "250",
+		"measure": "25x6",
+		"material": "Zink Steel",
+		"price": "7.05"
+	},
+	{
+		"name": "Nr. 61",
+		"article": "030142",
+		"feature": "250",
+		"measure": "25x6",
+		"material": "Painted Steel",
+		"price": "12.70"
+	},
+	{
+		"name": "Nr. 62",
+		"article": "030049",
+		"feature": "200",
+		"measure": "25x6",
+		"material": "Zink Steel",
+		"price": "6.34"
+	},
+	{
+		"name": "Nr. 62",
+		"article": "030143",
+		"feature": "200",
+		"measure": "25x6",
+		"material": "Painted Steel",
+		"price": "11.95"
+	},
+	{
+		"name": "Nr. 62",
+		"article": "030234",
+		"feature": "200",
+		"measure": "30x6",
+		"material": "Copper",
+		"price": "0.00"
+	},
+	{
+		"name": "Nr. 62",
+		"article": "030051",
+		"feature": "200",
+		"measure": "30x6",
+		"material": "Zink Steel",
+		"price": "6.83"
+	},
+	{
+		"name": "Nr. 62",
+		"article": "030050",
+		"feature": "250",
+		"measure": "25x6",
+		"material": "Zink Steel",
+		"price": "6.78"
+	},
+	{
+		"name": "Nr. 69",
+		"article": "030085",
+		"feature": "for Aluminium Tube 32 mm",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "15.24"
+	},
+	{
+		"name": "Nr. 69",
+		"article": "030162",
+		"feature": "for Aluminium Tube 32 mm",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "19.60"
+	},
+	{
+		"name": "Nr. 73",
+		"article": "030074",
+		"feature": "for wooden log/-Tube up to 140",
+		"measure": "30x8",
+		"material": "Zink Steel",
+		"price": "10.76"
+	},
+	{
+		"name": "Nr. 73",
+		"article": "030155",
+		"feature": "for wooden log/-Tube up to 140",
+		"measure": "30x8",
+		"material": "Painted Steel",
+		"price": "18.10"
+	},
+	{
+		"name": "Nr. 73",
+		"article": "030248",
+		"feature": "for wooden log/-Tube up to 140",
+		"measure": "30x8",
+		"material": "Copper",
+		"price": "0.00"
+	},
+	{
+		"name": "Nr. 75",
+		"article": "030081",
+		"feature": "for wooden log/-Tube up to 140",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "15.24"
+	},
+	{
+		"name": "Nr. 75",
+		"article": "030160",
+		"feature": "for wooden log/-Tube up to 140",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "19.60"
+	},
+	{
+		"name": "Nr. 76",
+		"article": "030084",
+		"feature": "200",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "15.24"
+	},
+	{
+		"name": "Nr. 76",
+		"article": "030161",
+		"feature": "200",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "19.60"
+	},
+	{
+		"name": "Nr. 76",
+		"article": "030087",
+		"feature": "250",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "15.95"
+	},
+	{
+		"name": "Nr. 76",
+		"article": "030164",
+		"feature": "250",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "20.50"
+	},
+	{
+		"name": "Nr. 173",
+		"article": "030392",
+		"feature": "for Aluminium Tube 32 mm",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "18.02"
+	},
+	{
+		"name": "Nr. 173",
+		"article": "030393",
+		"feature": "for Aluminium Tube 32 mm",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "25.80"
+	},
+	{
+		"name": "Nr. 174",
+		"article": "030394",
+		"feature": "for wooden log/-Tube up to 140",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "19.88"
+	},
+	{
+		"name": "Nr. 174",
+		"article": "030395",
+		"feature": "for wooden log/-Tube up to 140",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "27.70"
+	},
+	{
+		"name": "Nr. 175",
+		"article": "030396",
+		"feature": "200",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "19.01"
+	},
+	{
+		"name": "Nr. 175",
+		"article": "030397",
+		"feature": "200",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "26.85"
+	},
+	{
+		"name": "Nr. 55 B",
+		"article": "030018",
+		"feature": "200",
+		"measure": "25x6",
+		"material": "Zink Steel",
+		"price": "6.94"
+	},
+	{
+		"name": "Nr. 55 B",
+		"article": "030209",
+		"feature": "200",
+		"measure": "30x6",
+		"material": "Copper",
+		"price": "0.00"
+	},
+	{
+		"name": "Nr. 69 B",
+		"article": "030301",
+		"feature": "for Aluminium Tube 32 mm",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "15.89"
+	},
+	{
+		"name": "Nr. 69 B",
+		"article": "030307",
+		"feature": "for Aluminium Tube 32 mm",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "20.55"
+	},
+	{
+		"name": "Nr. 69 C",
+		"article": "030304",
+		"feature": "for Aluminium Tube 32 mm",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "15.89"
+	},
+	{
+		"name": "Nr. 69 C",
+		"article": "030310",
+		"feature": "for Aluminium Tube 32 mm",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "20.55"
+	},
+	{
+		"name": "Nr. 75 B",
+		"article": "030302",
+		"feature": "for wooden log/-Tube up to 140",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "15.89"
+	},
+	{
+		"name": "Nr. 75 B",
+		"article": "030308",
+		"feature": "for wooden log/-Tube up to 140",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "20.55"
+	},
+	{
+		"name": "Nr. 75 C",
+		"article": "030305",
+		"feature": "for wooden log/-Tube up to 140",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "15.89"
+	},
+	{
+		"name": "Nr. 75 C",
+		"article": "030311",
+		"feature": "for wooden log/-Tube up to 140",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "20.55"
+	},
+	{
+		"name": "Nr. 76 B",
+		"article": "030303",
+		"feature": "200",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "15.89"
+	},
+	{
+		"name": "Nr. 76 B",
+		"article": "030309",
+		"feature": "200",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "20.55"
+	},
+	{
+		"name": "Nr. 76 B",
+		"article": "030374",
+		"feature": "250",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "16.66"
+	},
+	{
+		"name": "Nr. 76 B",
+		"article": "030375",
+		"feature": "250",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "21.40"
+	},
+	{
+		"name": "Nr. 76 C",
+		"article": "030306",
+		"feature": "200",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "15.89"
+	},
+	{
+		"name": "Nr. 76 C",
+		"article": "030312",
+		"feature": "200",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "20.55"
+	},
+	{
+		"name": "Nr. 76 C",
+		"article": "030376",
+		"feature": "250",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "16.66"
+	},
+	{
+		"name": "Nr. 76 C",
+		"article": "030377",
+		"feature": "250",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "21.40"
+	},
+	{
+		"name": "Nr. 169 V",
+		"article": "030421",
+		"feature": "for Aluminium Tube 32 mm",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "19.28"
+	},
+	{
+		"name": "Nr. 169 V",
+		"article": "030423",
+		"feature": "for Aluminium Tube 32 mm",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "24.40"
+	},
+	{
+		"name": "Nr. 369 V",
+		"article": "030409",
+		"feature": "for Aluminium Tube 32 mm",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "17.37"
+	},
+	{
+		"name": "Nr. 369 V",
+		"article": "030411",
+		"feature": "for Aluminium Tube 32 mm",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "22.00"
+	},
+	{
+		"name": "Nr. 375 V",
+		"article": "030413",
+		"feature": "for wooden log/-Tube up to 140",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "17.37"
+	},
+	{
+		"name": "Nr. 375 V",
+		"article": "030415",
+		"feature": "for wooden log/-Tube up to 140",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "22.00"
+	},
+	{
+		"name": "Nr. 376 V",
+		"article": "030417",
+		"feature": "200",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "17.37"
+	},
+	{
+		"name": "Nr. 376 V",
+		"article": "030419",
+		"feature": "200",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "22.00"
+	},
+	{
+		"name": "Nr. 176 V ",
+		"article": "030387",
+		"feature": "250",
+		"measure": "V",
+		"material": "Zink Steel",
+		"price": "19.28"
+	},
+	{
+		"name": "Nr. 176 V ",
+		"article": "030388",
+		"feature": "250",
+		"measure": "V",
+		"material": "Painted Steel",
+		"price": "24.40"
+	},
+	{
+		"name": "Snowstop-Complete Set with Grid",
+		"article": "020058",
+		"feature": "",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "97.90"
+	},
+	{
+		"name": "Snowstop-Complete Set with Grid",
+		"article": "020059",
+		"feature": "",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "119.40"
+	},
+	{
+		"name": "Snowstop-Complete Set with Tube 120 mm ",
+		"article": "020068",
+		"feature": "",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "179.35"
+	},
+	{
+		"name": "Snowstop-Complete Set with Tube 120 mm ",
+		"article": "020069",
+		"feature": "",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "227.05"
+	},
+	{
+		"name": "Snowstop-Complete Set with Tubes 32 mm ",
+		"article": "020063",
+		"feature": "",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "145.60"
+	},
+	{
+		"name": "Snowstop-Complete Set with Tubes 32 mm ",
+		"article": "020064",
+		"feature": "",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "210.25"
+	},
+	{
+		"name": "Nr. 81",
+		"article": "030094",
+		"feature": "200",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "14.26"
+	},
+	{
+		"name": "Nr. 81",
+		"article": "030168",
+		"feature": "200",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "25.25"
+	},
+	{
+		"name": "Nr. 81",
+		"article": "030256",
+		"feature": "200",
+		"measure": "",
+		"material": "Copper",
+		"price": "0.00"
+	},
+	{
+		"name": "Nr. 81",
+		"article": "030095",
+		"feature": "250",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "14.86"
+	},
+	{
+		"name": "Nr. 81",
+		"article": "030169",
+		"feature": "250",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "25.70"
+	},
+	{
+		"name": "Nr. 151",
+		"article": "030116",
+		"feature": "for wooden log/-Tube up to 140",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "19.50"
+	},
+	{
+		"name": "Nr. 151",
+		"article": "030184",
+		"feature": "for wooden log/-Tube up to 140",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "32.20"
+	},
+	{
+		"name": "Nr. 151",
+		"article": "030279",
+		"feature": "for wooden log/-Tube up to 140",
+		"measure": "",
+		"material": "Copper",
+		"price": "0.00"
+	},
+	{
+		"name": "Nr. 161",
+		"article": "030428",
+		"feature": "for Aluminium Tube 32 mm",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "19.72"
+	},
+	{
+		"name": "Nr. 161",
+		"article": "030429",
+		"feature": "for Aluminium Tube 32 mm",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "28.75"
+	},
+	{
+		"name": "Nr. 81 V",
+		"article": "030448",
+		"feature": "200",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "19.17"
+	},
+	{
+		"name": "Nr. 81 V",
+		"article": "030453",
+		"feature": "200",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "24.75"
+	},
+	{
+		"name": "Nr. 81 V",
+		"article": "030449",
+		"feature": "250",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "23.21"
+	},
+	{
+		"name": "Nr. 81 V",
+		"article": "030454",
+		"feature": "250",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "28.85"
+	},
+	{
+		"name": "Nr. 85 V",
+		"article": "030458",
+		"feature": "200",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "19.17"
+	},
+	{
+		"name": "Nr. 85 V",
+		"article": "030463",
+		"feature": "200",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "24.75"
+	},
+	{
+		"name": "Nr. 85 V",
+		"article": "030459",
+		"feature": "250",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "23.21"
+	},
+	{
+		"name": "Nr. 85 V",
+		"article": "030464",
+		"feature": "250",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "28.85"
+	},
+	{
+		"name": "Nr. 151 V",
+		"article": "030452",
+		"feature": "for wooden log/-Tube up to 140",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "20.54"
+	},
+	{
+		"name": "Nr. 151 V",
+		"article": "030457",
+		"feature": "for wooden log/-Tube up to 140",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "26.10"
+	},
+	{
+		"name": "Nr. 161 V",
+		"article": "030451",
+		"feature": "for Aluminium Tube 32 mm",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "19.17"
+	},
+	{
+		"name": "Nr. 161 V",
+		"article": "030456",
+		"feature": "for Aluminium Tube 32 mm",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "24.70"
+	},
+	{
+		"name": "Nr. 166 V",
+		"article": "030461",
+		"feature": "for Aluminium Tube 32 mm",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "19.17"
+	},
+	{
+		"name": "Nr. 166 V",
+		"article": "030466",
+		"feature": "for Aluminium Tube 32 mm",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "24.70"
+	},
+	{
+		"name": "Nr. 81 PV",
+		"article": "030450",
+		"feature": "250",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "24.14"
+	},
+	{
+		"name": "Nr. 81 PV",
+		"article": "030455",
+		"feature": "250",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "29.95"
+	},
+	{
+		"name": "Nr. 85 PV",
+		"article": "030460",
+		"feature": "250",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "24.14"
+	},
+	{
+		"name": "Nr. 85 PV",
+		"article": "030465",
+		"feature": "250",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "29.95"
+	},
+	{
+		"name": "Nr. 80",
+		"article": "030092",
+		"feature": "200",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "16.38"
+	},
+	{
+		"name": "Nr. 80",
+		"article": "030166",
+		"feature": "200",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "27.20"
+	},
+	{
+		"name": "Nr. 80",
+		"article": "030093",
+		"feature": "250",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "16.88"
+	},
+	{
+		"name": "Nr. 80",
+		"article": "030167",
+		"feature": "250",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "27.80"
+	},
+	{
+		"name": "Nr. 150",
+		"article": "030115",
+		"feature": "for wooden log/-Tube up to 140",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "21.79"
+	},
+	{
+		"name": "Nr. 150",
+		"article": "030183",
+		"feature": "for wooden log/-Tube up to 140",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "33.95"
+	},
+	{
+		"name": "Extension for Retainer Holder",
+		"article": "030468",
+		"feature": "",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "5.65"
+	},
+	{
+		"name": "Extension for Retainer Holder",
+		"article": "030469",
+		"feature": "",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "7.10"
+	},
+	{
+		"name": "Nr. 84",
+		"article": "030100",
+		"feature": "200",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "15.73"
+	},
+	{
+		"name": "Nr. 84",
+		"article": "030174",
+		"feature": "200",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "27.60"
+	},
+	{
+		"name": "Nr. 84",
+		"article": "030101",
+		"feature": "250",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "16.33"
+	},
+	{
+		"name": "Nr. 84",
+		"article": "030175",
+		"feature": "250",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "28.05"
+	},
+	{
+		"name": "Nr. 154",
+		"article": "030118",
+		"feature": "for wooden log/-Tube up to 140",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "21.25"
+	},
+	{
+		"name": "Nr. 154",
+		"article": "030186",
+		"feature": "for wooden log/-Tube up to 140",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "33.30"
+	},
+	{
+		"name": "Nr. 82",
+		"article": "030096",
+		"feature": "200",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "15.73"
+	},
+	{
+		"name": "Nr. 82",
+		"article": "030170",
+		"feature": "200",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "27.60"
+	},
+	{
+		"name": "Nr. 82",
+		"article": "030097",
+		"feature": "250",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "16.33"
+	},
+	{
+		"name": "Nr. 82",
+		"article": "030171",
+		"feature": "250",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "28.05"
+	},
+	{
+		"name": "Nr. 152",
+		"article": "030117",
+		"feature": "for wooden log/-Tube up to 140",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "21.25"
+	},
+	{
+		"name": "Nr. 152",
+		"article": "030185",
+		"feature": "for wooden log/-Tube up to 140",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "33.30"
+	},
+	{
+		"name": "Nr. 88",
+		"article": "030103",
+		"feature": "200",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "16.34"
+	},
+	{
+		"name": "Nr. 88",
+		"article": "030177",
+		"feature": "200",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "0.00"
+	},
+	{
+		"name": "Nr. 88",
+		"article": "030104",
+		"feature": "250",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "16.85"
+	},
+	{
+		"name": "Nr. 88",
+		"article": "030178",
+		"feature": "250",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "27.80"
+	},
+	{
+		"name": "Nr. 158",
+		"article": "030119",
+		"feature": "Rundholzbis140mm",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "0.00"
+	},
+	{
+		"name": "Nr. 158",
+		"article": "030187",
+		"feature": "Rundholzbis140mm",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "0.00"
+	},
+	{
+		"name": "Nr. 77",
+		"article": "030089",
+		"feature": "200",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "12.40"
+	},
+	{
+		"name": "Nr. 77",
+		"article": "030165",
+		"feature": "200",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "19.00"
+	},
+	{
+		"name": "Nr. 77",
+		"article": "030253",
+		"feature": "200",
+		"measure": "",
+		"material": "Copper",
+		"price": "0.00"
+	},
+	{
+		"name": "Nr. 78",
+		"article": "030090",
+		"feature": "for wooden log/-Tube up to 140",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "17.42"
+	},
+	{
+		"name": "Nr. 78",
+		"article": "030321",
+		"feature": "for wooden log/-Tube up to 140",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "27.10"
+	},
+	{
+		"name": "Nr. 79",
+		"article": "030091",
+		"feature": "for wooden log/-Tube up to 140",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "17.42"
+	},
+	{
+		"name": "Nr. 79",
+		"article": "030389",
+		"feature": "for wooden log/-Tube up to 140",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "27.10"
+	},
+	{
+		"name": "Nr. 69 W",
+		"article": "030370",
+		"feature": "for Aluminium Tube 32 mm",
+		"measure": "Profil5/6od.Classicu.Toscana",
+		"material": "Zink Steel",
+		"price": "24.09"
+	},
+	{
+		"name": "Nr. 69 W",
+		"article": "030372",
+		"feature": "for Aluminium Tube 32 mm",
+		"measure": "Profil5/6od.Classicu.Toscana",
+		"material": "Painted Steel",
+		"price": "34.20"
+	},
+	{
+		"name": "Nr. 69 W",
+		"article": "030371",
+		"feature": "for Aluminium Tube 32 mm",
+		"measure": "Profil8/9",
+		"material": "Zink Steel",
+		"price": "24.09"
+	},
+	{
+		"name": "Nr. 69 W",
+		"article": "030373",
+		"feature": "for Aluminium Tube 32 mm",
+		"measure": "Profil8/9",
+		"material": "Painted Steel",
+		"price": "34.20"
+	},
+	{
+		"name": "Nr. 176 W",
+		"article": "030430",
+		"feature": "250",
+		"measure": "Profil5/6/ToscanaundClassic",
+		"material": "Zink Steel",
+		"price": "26.98"
+	},
+	{
+		"name": "Nr. 176 W",
+		"article": "030431",
+		"feature": "250",
+		"measure": "Profil5/6/ToscanaundClassic",
+		"material": "Painted Steel",
+		"price": "37.10"
+	},
+	{
+		"name": "Nr. 176 W",
+		"article": "030432",
+		"feature": "250",
+		"measure": "Profil8/9",
+		"material": "Zink Steel",
+		"price": "26.98"
+	},
+	{
+		"name": "Nr. 176 W",
+		"article": "030433",
+		"feature": "250",
+		"measure": "Profil8/9",
+		"material": "Painted Steel",
+		"price": "37.10"
+	},
+	{
+		"name": "Nr. 180",
+		"article": "040248",
+		"feature": "200",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "12.07"
+	},
+	{
+		"name": "Nr. 180",
+		"article": "040249",
+		"feature": "200",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "16.85"
+	},
+	{
+		"name": "Nr. 181",
+		"article": "040250",
+		"feature": "for wooden log/-Tube up to 140",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "13.17"
+	},
+	{
+		"name": "Nr. 181",
+		"article": "040251",
+		"feature": "for wooden log/-Tube up to 140",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "18.10"
+	},
+	{
+		"name": "Nr. 182",
+		"article": "040252",
+		"feature": "for Aluminium Tube 32 mm",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "9.83"
+	},
+	{
+		"name": "Nr. 182",
+		"article": "040253",
+		"feature": "for Aluminium Tube 32 mm",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "14.85"
+	},
+	{
+		"name": "Nr. 185",
+		"article": "030484",
+		"feature": "200",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "19.55"
+	},
+	{
+		"name": "Nr. 185",
+		"article": "030485",
+		"feature": "200",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "23.85"
+	},
+	{
+		"name": "Nr. 186",
+		"article": "030486",
+		"feature": "for Aluminium Tube 32 mm",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "19.55"
+	},
+	{
+		"name": "Nr. 186",
+		"article": "030487",
+		"feature": "for Aluminium Tube 32 mm",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "23.85"
+	},
+	{
+		"name": "Nr. 187",
+		"article": "030488",
+		"feature": "for wooden log/-Tube up to 140",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "19.55"
+	},
+	{
+		"name": "Nr. 187",
+		"article": "030489",
+		"feature": "for wooden log/-Tube up to 140",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "23.85"
+	},
+	{
+		"name": "Retainer Holder for 1 Tube with 32 ",
+		"article": "030493",
+		"feature": "32",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "20.95"
+	},
+	{
+		"name": "Retainer Holder for 1 Tube with 32 mm ",
+		"article": "030490",
+		"feature": "32",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "16.10"
+	},
+	{
+		"name": "Retainer Holder for 2 Tubes with 32 mm ",
+		"article": "030491",
+		"feature": "32",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "17.50"
+	},
+	{
+		"name": "Retainer Holder for 2 Tubes with 32 mm ",
+		"article": "030494",
+		"feature": "32",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "22.55"
+	},
+	{
+		"name": "Retainer Holder for 3 Tubes with 32 mm ",
+		"article": "030492",
+		"feature": "32",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "19.85"
+	},
+	{
+		"name": "Retainer Holder for 3 Tubes with 32 mm ",
+		"article": "030495",
+		"feature": "32",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "25.30"
+	},
+	{
+		"name": "Ice Retainer",
+		"article": "030250",
+		"feature": "",
+		"measure": "",
+		"material": "Copper",
+		"price": "0.00"
+	},
+	{
+		"name": "Ice Retainer",
+		"article": "030284",
+		"feature": "",
+		"measure": "",
+		"material": "Aluminium",
+		"price": "3.10"
+	},
+	{
+		"name": "Clamp Raiser",
+		"article": "030252",
+		"feature": "Alu-Rohr28",
+		"measure": "",
+		"material": "Copper",
+		"price": "0.00"
+	},
+	{
+		"name": "Clamp Raiser",
+		"article": "030286",
+		"feature": "for Aluminium Tube 32 mm",
+		"measure": "",
+		"material": "Aluminium",
+		"price": "6.20"
+	},
+	{
+		"name": "Snowstop Clamp",
+		"article": "030251",
+		"feature": "Alu-Rohr28",
+		"measure": "",
+		"material": "Copper",
+		"price": "0.00"
+	},
+	{
+		"name": "Snowstop Clamp",
+		"article": "030285",
+		"feature": "for Aluminium Tube 32 mm",
+		"measure": "",
+		"material": "Aluminium",
+		"price": "7.10"
+	},
+	{
+		"name": "Retainer Holder 200 h",
+		"article": "030476",
+		"feature": "200",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "26.20"
+	},
+	{
+		"name": "Retainer Holder 200 tall",
+		"article": "030475",
+		"feature": "200",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "22.75"
+	},
+	{
+		"name": "Retainer Holder for 1-Tube",
+		"article": "030477",
+		"feature": "for Aluminium Tube 32 mm",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "19.55"
+	},
+	{
+		"name": "Retainer Holder for 1-Tube",
+		"article": "030478",
+		"feature": "for Aluminium Tube 32 mm",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "22.70"
+	},
+	{
+		"name": "Retainer Holder for 140 mm",
+		"article": "030473",
+		"feature": "for wooden log/-Tube up to 140",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "22.50"
+	},
+	{
+		"name": "Retainer Holder for 140 mm",
+		"article": "030474",
+		"feature": "for wooden log/-Tube up to 140",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "25.65"
+	},
+	{
+		"name": "Retainer Holder for 2-Tube",
+		"article": "030471",
+		"feature": "for Aluminium Tube 32 mm",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "20.60"
+	},
+	{
+		"name": "Retainer Holder for 2-Tube",
+		"article": "030472",
+		"feature": "for Aluminium Tube 32 mm",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "23.75"
+	},
+	{
+		"name": "Nr. 40",
+		"article": "030107",
+		"feature": "zumAufnageln",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "2.19"
+	},
+	{
+		"name": "Nr. 40",
+		"article": "030181",
+		"feature": "zumAufnageln",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "4.40"
+	},
+	{
+		"name": "Nr. 55",
+		"article": "030009",
+		"feature": "200",
+		"measure": "25x6",
+		"material": "Zink Steel",
+		"price": "4.27"
+	},
+	{
+		"name": "Nr. 55",
+		"article": "030204",
+		"feature": "200",
+		"measure": "30x8",
+		"material": "Copper",
+		"price": "0.00"
+	},
+	{
+		"name": "Nr. 60",
+		"article": "030033",
+		"feature": "200",
+		"measure": "25x6",
+		"material": "Zink Steel",
+		"price": "6.01"
+	},
+	{
+		"name": "Nr. 60",
+		"article": "030134",
+		"feature": "200",
+		"measure": "25x6",
+		"material": "Painted Steel",
+		"price": "11.70"
+	},
+	{
+		"name": "Nr. 60",
+		"article": "030035",
+		"feature": "200",
+		"measure": "30x6",
+		"material": "Zink Steel",
+		"price": "6.34"
+	},
+	{
+		"name": "Nr. 60",
+		"article": "030221",
+		"feature": "200",
+		"measure": "30x6",
+		"material": "Copper",
+		"price": "0.00"
+	},
+	{
+		"name": "Nr. 60",
+		"article": "030034",
+		"feature": "250",
+		"measure": "25x6",
+		"material": "Zink Steel",
+		"price": "6.34"
+	},
+	{
+		"name": "Nr. 60",
+		"article": "030135",
+		"feature": "250",
+		"measure": "25x6",
+		"material": "Painted Steel",
+		"price": "12.05"
+	},
+	{
+		"name": "Nr. 70",
+		"article": "030241",
+		"feature": "Cu-Rohr35",
+		"measure": "30x8",
+		"material": "Copper",
+		"price": "0.00"
+	},
+	{
+		"name": "Nr. 72",
+		"article": "030073",
+		"feature": "for wooden log/-Tube up to 140",
+		"measure": "30x8",
+		"material": "Zink Steel",
+		"price": "10.00"
+	},
+	{
+		"name": "Nr. 72",
+		"article": "030154",
+		"feature": "for wooden log/-Tube up to 140",
+		"measure": "30x8",
+		"material": "Painted Steel",
+		"price": "17.15"
+	},
+	{
+		"name": "Nr. 72",
+		"article": "030247",
+		"feature": "for wooden log/-Tube up to 140",
+		"measure": "30x8",
+		"material": "Copper",
+		"price": "0.00"
+	},
+	{
+		"name": "Nr. 69 S",
+		"article": "030314",
+		"feature": "for Aluminium Tube 32 mm",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "15.89"
+	},
+	{
+		"name": "Nr. 69 S",
+		"article": "030317",
+		"feature": "for Aluminium Tube 32 mm",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "20.55"
+	},
+	{
+		"name": "Nr. 75 S",
+		"article": "030315",
+		"feature": "for wooden log/-Tube up to 140",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "15.89"
+	},
+	{
+		"name": "Nr. 75 S",
+		"article": "030318",
+		"feature": "for wooden log/-Tube up to 140",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "20.55"
+	},
+	{
+		"name": "Nr. 76 S",
+		"article": "030316",
+		"feature": "200",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "15.89"
+	},
+	{
+		"name": "Nr. 76 S",
+		"article": "030319",
+		"feature": "200",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "20.55"
+	},
+	{
+		"name": "Nr. 169 S",
+		"article": "030422",
+		"feature": "for Aluminium Tube 32 mm",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "19.28"
+	},
+	{
+		"name": "Nr. 169 S",
+		"article": "030424",
+		"feature": "for Aluminium Tube 32 mm",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "24.40"
+	},
+	{
+		"name": "Nr. 176 S",
+		"article": "030357",
+		"feature": "250",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "17.59"
+	},
+	{
+		"name": "Nr. 176 S",
+		"article": "030360",
+		"feature": "250",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "22.65"
+	},
+	{
+		"name": "Nr. 369 S",
+		"article": "030410",
+		"feature": "for Aluminium Tube 32 mm",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "17.37"
+	},
+	{
+		"name": "Nr. 369 S",
+		"article": "030412",
+		"feature": "for Aluminium Tube 32 mm",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "22.00"
+	},
+	{
+		"name": "Nr. 375 S",
+		"article": "030414",
+		"feature": "for wooden log/-Tube up to 140",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "17.37"
+	},
+	{
+		"name": "Nr. 375 S",
+		"article": "030416",
+		"feature": "for wooden log/-Tube up to 140",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "22.00"
+	},
+	{
+		"name": "Nr. 376 S",
+		"article": "030418",
+		"feature": "200",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "17.37"
+	},
+	{
+		"name": "Nr. 376 S",
+		"article": "030420",
+		"feature": "200",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "22.00"
+	}
+	]
+}

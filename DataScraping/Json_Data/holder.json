@@ -1,0 +1,1660 @@
+{
+	"articles": [
+	{
+		"name": "Nr. 59",
+		"article": "030029",
+		"feature": "200",
+		"measure": "25x6",
+		"material": "Zink Steel",
+		"price": "8.31",
+		"roof-type": "concrete-tile"
+	},
+	{
+		"name": "Nr. 59",
+		"article": "030132",
+		"feature": "200",
+		"measure": "25x6",
+		"material": "Painted Steel",
+		"price": "13.95",
+		"roof-type": "concrete-tile"
+	},
+	{
+		"name": "Nr. 59",
+		"article": "030218",
+		"feature": "200",
+		"measure": "25x6",
+		"material": "Copper",
+		"price": "0.00",
+		"roof-type": "concrete-tile"
+	},
+	{
+		"name": "Nr. 59",
+		"article": "030214",
+		"feature": "200",
+		"measure": "30x6",
+		"material": "Copper",
+		"price": "0.00",
+		"roof-type": "concrete-tile"
+	},
+	{
+		"name": "Nr. 61",
+		"article": "030045",
+		"feature": "200",
+		"measure": "25x6",
+		"material": "Zink Steel",
+		"price": "6.56",
+		"roof-type": "concrete-tile"
+	},
+	{
+		"name": "Nr. 61",
+		"article": "030141",
+		"feature": "200",
+		"measure": "25x6",
+		"material": "Painted Steel",
+		"price": "12.15",
+		"roof-type": "concrete-tile"
+	},
+	{
+		"name": "Nr. 61",
+		"article": "030231",
+		"feature": "200",
+		"measure": "30x6",
+		"material": "Copper",
+		"price": "0.00",
+		"roof-type": "concrete-tile"
+	},
+	{
+		"name": "Nr. 61",
+		"article": "030048",
+		"feature": "250",
+		"measure": "25x6",
+		"material": "Zink Steel",
+		"price": "7.05",
+		"roof-type": "concrete-tile"
+	},
+	{
+		"name": "Nr. 61",
+		"article": "030142",
+		"feature": "250",
+		"measure": "25x6",
+		"material": "Painted Steel",
+		"price": "12.70",
+		"roof-type": "concrete-tile"
+	},
+	{
+		"name": "Nr. 62",
+		"article": "030049",
+		"feature": "200",
+		"measure": "25x6",
+		"material": "Zink Steel",
+		"price": "6.34",
+		"roof-type": "concrete-tile"
+	},
+	{
+		"name": "Nr. 62",
+		"article": "030143",
+		"feature": "200",
+		"measure": "25x6",
+		"material": "Painted Steel",
+		"price": "11.95",
+		"roof-type": "concrete-tile"
+	},
+	{
+		"name": "Nr. 62",
+		"article": "030234",
+		"feature": "200",
+		"measure": "30x6",
+		"material": "Copper",
+		"price": "0.00",
+		"roof-type": "concrete-tile"
+	},
+	{
+		"name": "Nr. 62",
+		"article": "030051",
+		"feature": "200",
+		"measure": "30x6",
+		"material": "Zink Steel",
+		"price": "6.83",
+		"roof-type": "concrete-tile"
+	},
+	{
+		"name": "Nr. 62",
+		"article": "030050",
+		"feature": "250",
+		"measure": "25x6",
+		"material": "Zink Steel",
+		"price": "6.78",
+		"roof-type": "concrete-tile"
+	},
+	{
+		"name": "Nr. 69",
+		"article": "030085",
+		"feature": "32",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "15.24",
+		"roof-type": "concrete-tile"
+	},
+	{
+		"name": "Nr. 69",
+		"article": "030162",
+		"feature": "32",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "19.60",
+		"roof-type": "concrete-tile"
+	},
+	{
+		"name": "Nr. 73",
+		"article": "030074",
+		"feature": "120",
+		"measure": "30x8",
+		"material": "Zink Steel",
+		"price": "10.76",
+		"roof-type": "concrete-tile"
+	},
+	{
+		"name": "Nr. 73",
+		"article": "030155",
+		"feature": "120",
+		"measure": "30x8",
+		"material": "Painted Steel",
+		"price": "18.10",
+		"roof-type": "concrete-tile"
+	},
+	{
+		"name": "Nr. 73",
+		"article": "030248",
+		"feature": "120",
+		"measure": "30x8",
+		"material": "Copper",
+		"price": "0.00",
+		"roof-type": "concrete-tile"
+	},
+	{
+		"name": "Nr. 75",
+		"article": "030081",
+		"feature": "120",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "15.24",
+		"roof-type": "concrete-tile"
+	},
+	{
+		"name": "Nr. 75",
+		"article": "030160",
+		"feature": "120",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "19.60",
+		"roof-type": "concrete-tile"
+	},
+	{
+		"name": "Nr. 76",
+		"article": "030084",
+		"feature": "200",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "15.24",
+		"roof-type": "concrete-tile"
+	},
+	{
+		"name": "Nr. 76",
+		"article": "030161",
+		"feature": "200",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "19.60",
+		"roof-type": "concrete-tile"
+	},
+	{
+		"name": "Nr. 76",
+		"article": "030087",
+		"feature": "250",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "15.95",
+		"roof-type": "concrete-tile"
+	},
+	{
+		"name": "Nr. 76",
+		"article": "030164",
+		"feature": "250",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "20.50",
+		"roof-type": "concrete-tile"
+	},
+	{
+		"name": "Nr. 173",
+		"article": "030392",
+		"feature": "32",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "18.02",
+		"roof-type": "concrete-tile"
+	},
+	{
+		"name": "Nr. 173",
+		"article": "030393",
+		"feature": "32",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "25.80",
+		"roof-type": "concrete-tile"
+	},
+	{
+		"name": "Nr. 174",
+		"article": "030394",
+		"feature": "120",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "19.88",
+		"roof-type": "concrete-tile"
+	},
+	{
+		"name": "Nr. 174",
+		"article": "030395",
+		"feature": "120",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "27.70",
+		"roof-type": "concrete-tile"
+	},
+	{
+		"name": "Nr. 175",
+		"article": "030396",
+		"feature": "200",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "19.01",
+		"roof-type": "concrete-tile"
+	},
+	{
+		"name": "Nr. 175",
+		"article": "030397",
+		"feature": "200",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "26.85",
+		"roof-type": "concrete-tile"
+	},
+	{
+		"name": "Nr. 55 B",
+		"article": "030018",
+		"feature": "200",
+		"measure": "25x6",
+		"material": "Zink Steel",
+		"price": "6.94",
+		"roof-type": "concrete-tile"
+	},
+	{
+		"name": "Nr. 55 B",
+		"article": "030209",
+		"feature": "200",
+		"measure": "30x6",
+		"material": "Copper",
+		"price": "0.00",
+		"roof-type": "concrete-tile"
+	},
+	{
+		"name": "Nr. 69 B",
+		"article": "030301",
+		"feature": "32",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "15.89",
+		"roof-type": "concrete-tile"
+	},
+	{
+		"name": "Nr. 69 B",
+		"article": "030307",
+		"feature": "32",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "20.55",
+		"roof-type": "concrete-tile"
+	},
+	{
+		"name": "Nr. 69 C",
+		"article": "030304",
+		"feature": "32",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "15.89",
+		"roof-type": "concrete-tile"
+	},
+	{
+		"name": "Nr. 69 C",
+		"article": "030310",
+		"feature": "32",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "20.55",
+		"roof-type": "concrete-tile"
+	},
+	{
+		"name": "Nr. 75 B",
+		"article": "030302",
+		"feature": "120",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "15.89",
+		"roof-type": "concrete-tile"
+	},
+	{
+		"name": "Nr. 75 B",
+		"article": "030308",
+		"feature": "120",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "20.55",
+		"roof-type": "concrete-tile"
+	},
+	{
+		"name": "Nr. 75 C",
+		"article": "030305",
+		"feature": "120",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "15.89",
+		"roof-type": "concrete-tile"
+	},
+	{
+		"name": "Nr. 75 C",
+		"article": "030311",
+		"feature": "120",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "20.55",
+		"roof-type": "concrete-tile"
+	},
+	{
+		"name": "Nr. 76 B",
+		"article": "030303",
+		"feature": "200",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "15.89",
+		"roof-type": "concrete-tile"
+	},
+	{
+		"name": "Nr. 76 B",
+		"article": "030309",
+		"feature": "200",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "20.55",
+		"roof-type": "concrete-tile"
+	},
+	{
+		"name": "Nr. 76 B",
+		"article": "030374",
+		"feature": "250",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "16.66",
+		"roof-type": "concrete-tile"
+	},
+	{
+		"name": "Nr. 76 B",
+		"article": "030375",
+		"feature": "250",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "21.40",
+		"roof-type": "concrete-tile"
+	},
+	{
+		"name": "Nr. 76 C",
+		"article": "030306",
+		"feature": "200",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "15.89",
+		"roof-type": "concrete-tile"
+	},
+	{
+		"name": "Nr. 76 C",
+		"article": "030312",
+		"feature": "200",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "20.55",
+		"roof-type": "concrete-tile"
+	},
+	{
+		"name": "Nr. 76 C",
+		"article": "030376",
+		"feature": "250",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "16.66",
+		"roof-type": "concrete-tile"
+	},
+	{
+		"name": "Nr. 76 C",
+		"article": "030377",
+		"feature": "250",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "21.40",
+		"roof-type": "concrete-tile"
+	},
+	{
+		"name": "Nr. 169 V",
+		"article": "030421",
+		"feature": "32",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "19.28",
+		"roof-type": "concrete-tile"
+	},
+	{
+		"name": "Nr. 169 V",
+		"article": "030423",
+		"feature": "32",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "24.40",
+		"roof-type": "concrete-tile"
+	},
+	{
+		"name": "Nr. 369 V",
+		"article": "030409",
+		"feature": "32",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "17.37",
+		"roof-type": "concrete-tile"
+	},
+	{
+		"name": "Nr. 369 V",
+		"article": "030411",
+		"feature": "32",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "22.00",
+		"roof-type": "concrete-tile"
+	},
+	{
+		"name": "Nr. 375 V",
+		"article": "030413",
+		"feature": "120",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "17.37",
+		"roof-type": "concrete-tile"
+	},
+	{
+		"name": "Nr. 375 V",
+		"article": "030415",
+		"feature": "120",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "22.00",
+		"roof-type": "concrete-tile"
+	},
+	{
+		"name": "Nr. 376 V",
+		"article": "030417",
+		"feature": "200",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "17.37",
+		"roof-type": "concrete-tile"
+	},
+	{
+		"name": "Nr. 376 V",
+		"article": "030419",
+		"feature": "200",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "22.00",
+		"roof-type": "concrete-tile"
+	},
+	{
+		"name": "Nr. 176 V ",
+		"article": "030387",
+		"feature": "250",
+		"measure": "V",
+		"material": "Zink Steel",
+		"price": "19.28",
+		"roof-type": "concrete-tile"
+	},
+	{
+		"name": "Nr. 176 V ",
+		"article": "030388",
+		"feature": "250",
+		"measure": "V",
+		"material": "Painted Steel",
+		"price": "24.40",
+		"roof-type": "concrete-tile"
+	},
+	{
+		"name": "Nr. 81",
+		"article": "030094",
+		"feature": "200",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "14.26",
+		"roof-type": "concrete-tile"
+	},
+	{
+		"name": "Nr. 81",
+		"article": "030168",
+		"feature": "200",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "25.25",
+		"roof-type": "concrete-tile"
+	},
+	{
+		"name": "Nr. 81",
+		"article": "030256",
+		"feature": "200",
+		"measure": "",
+		"material": "Copper",
+		"price": "0.00",
+		"roof-type": "concrete-tile"
+	},
+	{
+		"name": "Nr. 81",
+		"article": "030095",
+		"feature": "250",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "14.86",
+		"roof-type": "concrete-tile"
+	},
+	{
+		"name": "Nr. 81",
+		"article": "030169",
+		"feature": "250",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "25.70",
+		"roof-type": "concrete-tile"
+	},
+	{
+		"name": "Nr. 151",
+		"article": "030116",
+		"feature": "120",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "19.50",
+		"roof-type": "concrete-tile"
+	},
+	{
+		"name": "Nr. 151",
+		"article": "030184",
+		"feature": "120",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "32.20",
+		"roof-type": "concrete-tile"
+	},
+	{
+		"name": "Nr. 151",
+		"article": "030279",
+		"feature": "120",
+		"measure": "",
+		"material": "Copper",
+		"price": "0.00",
+		"roof-type": "concrete-tile"
+	},
+	{
+		"name": "Nr. 161",
+		"article": "030428",
+		"feature": "32",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "19.72",
+		"roof-type": "concrete-tile"
+	},
+	{
+		"name": "Nr. 161",
+		"article": "030429",
+		"feature": "32",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "28.75",
+		"roof-type": "concrete-tile"
+	},
+	{
+		"name": "Nr. 81 V",
+		"article": "030448",
+		"feature": "200",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "19.17",
+		"roof-type": "concrete-tile"
+	},
+	{
+		"name": "Nr. 81 V",
+		"article": "030453",
+		"feature": "200",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "24.75",
+		"roof-type": "concrete-tile"
+	},
+	{
+		"name": "Nr. 81 V",
+		"article": "030449",
+		"feature": "250",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "23.21",
+		"roof-type": "concrete-tile"
+	},
+	{
+		"name": "Nr. 81 V",
+		"article": "030454",
+		"feature": "250",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "28.85",
+		"roof-type": "concrete-tile"
+	},
+	{
+		"name": "Nr. 85 V",
+		"article": "030458",
+		"feature": "200",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "19.17",
+		"roof-type": "concrete-tile"
+	},
+	{
+		"name": "Nr. 85 V",
+		"article": "030463",
+		"feature": "200",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "24.75",
+		"roof-type": "concrete-tile"
+	},
+	{
+		"name": "Nr. 85 V",
+		"article": "030459",
+		"feature": "250",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "23.21",
+		"roof-type": "concrete-tile"
+	},
+	{
+		"name": "Nr. 85 V",
+		"article": "030464",
+		"feature": "250",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "28.85",
+		"roof-type": "concrete-tile"
+	},
+	{
+		"name": "Nr. 151 V",
+		"article": "030452",
+		"feature": "120",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "20.54",
+		"roof-type": "concrete-tile"
+	},
+	{
+		"name": "Nr. 151 V",
+		"article": "030457",
+		"feature": "120",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "26.10",
+		"roof-type": "concrete-tile"
+	},
+	{
+		"name": "Nr. 161 V",
+		"article": "030451",
+		"feature": "32",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "19.17",
+		"roof-type": "concrete-tile"
+	},
+	{
+		"name": "Nr. 161 V",
+		"article": "030456",
+		"feature": "32",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "24.70",
+		"roof-type": "concrete-tile"
+	},
+	{
+		"name": "Nr. 166 V",
+		"article": "030461",
+		"feature": "32",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "19.17",
+		"roof-type": "concrete-tile"
+	},
+	{
+		"name": "Nr. 166 V",
+		"article": "030466",
+		"feature": "32",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "24.70",
+		"roof-type": "concrete-tile"
+	},
+	{
+		"name": "Nr. 81 PV",
+		"article": "030450",
+		"feature": "250",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "24.14",
+		"roof-type": "concrete-tile"
+	},
+	{
+		"name": "Nr. 81 PV",
+		"article": "030455",
+		"feature": "250",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "29.95",
+		"roof-type": "concrete-tile"
+	},
+	{
+		"name": "Nr. 85 PV",
+		"article": "030460",
+		"feature": "250",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "24.14",
+		"roof-type": "concrete-tile"
+	},
+	{
+		"name": "Nr. 85 PV",
+		"article": "030465",
+		"feature": "250",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "29.95",
+		"roof-type": "concrete-tile"
+	},
+	{
+		"name": "Nr. 80",
+		"article": "030092",
+		"feature": "200",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "16.38",
+		"roof-type": "concrete-tile"
+	},
+	{
+		"name": "Nr. 80",
+		"article": "030166",
+		"feature": "200",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "27.20",
+		"roof-type": "concrete-tile"
+	},
+	{
+		"name": "Nr. 80",
+		"article": "030093",
+		"feature": "250",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "16.88",
+		"roof-type": "concrete-tile"
+	},
+	{
+		"name": "Nr. 80",
+		"article": "030167",
+		"feature": "250",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "27.80",
+		"roof-type": "concrete-tile"
+	},
+	{
+		"name": "Nr. 150",
+		"article": "030115",
+		"feature": "120",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "21.79",
+		"roof-type": "concrete-tile"
+	},
+	{
+		"name": "Nr. 150",
+		"article": "030183",
+		"feature": "120",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "33.95",
+		"roof-type": "concrete-tile"
+	},
+	{
+		"name": "Nr. 84",
+		"article": "030100",
+		"feature": "200",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "15.73",
+		"roof-type": "concrete-tile"
+	},
+	{
+		"name": "Nr. 84",
+		"article": "030174",
+		"feature": "200",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "27.60",
+		"roof-type": "concrete-tile"
+	},
+	{
+		"name": "Nr. 84",
+		"article": "030101",
+		"feature": "250",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "16.33",
+		"roof-type": "concrete-tile"
+	},
+	{
+		"name": "Nr. 84",
+		"article": "030175",
+		"feature": "250",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "28.05",
+		"roof-type": "concrete-tile"
+	},
+	{
+		"name": "Nr. 154",
+		"article": "030118",
+		"feature": "120",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "21.25",
+		"roof-type": "concrete-tile"
+	},
+	{
+		"name": "Nr. 154",
+		"article": "030186",
+		"feature": "120",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "33.30",
+		"roof-type": "concrete-tile"
+	},
+	{
+		"name": "Nr. 82",
+		"article": "030096",
+		"feature": "200",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "15.73",
+		"roof-type": "concrete-tile"
+	},
+	{
+		"name": "Nr. 82",
+		"article": "030170",
+		"feature": "200",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "27.60",
+		"roof-type": "concrete-tile"
+	},
+	{
+		"name": "Nr. 82",
+		"article": "030097",
+		"feature": "250",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "16.33",
+		"roof-type": "concrete-tile"
+	},
+	{
+		"name": "Nr. 82",
+		"article": "030171",
+		"feature": "250",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "28.05",
+		"roof-type": "concrete-tile"
+	},
+	{
+		"name": "Nr. 152",
+		"article": "030117",
+		"feature": "120",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "21.25",
+		"roof-type": "concrete-tile"
+	},
+	{
+		"name": "Nr. 152",
+		"article": "030185",
+		"feature": "120",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "33.30",
+		"roof-type": "concrete-tile"
+	},
+	{
+		"name": "Nr. 88",
+		"article": "030103",
+		"feature": "200",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "16.34",
+		"roof-type": "concrete-tile"
+	},
+	{
+		"name": "Nr. 88",
+		"article": "030177",
+		"feature": "200",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "0.00",
+		"roof-type": "concrete-tile"
+	},
+	{
+		"name": "Nr. 88",
+		"article": "030104",
+		"feature": "250",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "16.85",
+		"roof-type": "concrete-tile"
+	},
+	{
+		"name": "Nr. 88",
+		"article": "030178",
+		"feature": "250",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "27.80",
+		"roof-type": "concrete-tile"
+	},
+	{
+		"name": "Nr. 158",
+		"article": "030119",
+		"feature": "120",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "0.00",
+		"roof-type": "concrete-tile"
+	},
+	{
+		"name": "Nr. 158",
+		"article": "030187",
+		"feature": "120",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "0.00",
+		"roof-type": "concrete-tile"
+	},
+	{
+		"name": "Nr. 77",
+		"article": "030089",
+		"feature": "200",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "12.40",
+		"roof-type": "ondulated-plate"
+	},
+	{
+		"name": "Nr. 77",
+		"article": "030165",
+		"feature": "200",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "19.00",
+		"roof-type": "ondulated-plate"
+	},
+	{
+		"name": "Nr. 77",
+		"article": "030253",
+		"feature": "200",
+		"measure": "",
+		"material": "Copper",
+		"price": "0.00",
+		"roof-type": "ondulated-plate"
+	},
+	{
+		"name": "Nr. 78",
+		"article": "030090",
+		"feature": "120",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "17.42",
+		"roof-type": "ondulated-plate"
+	},
+	{
+		"name": "Nr. 78",
+		"article": "030321",
+		"feature": "120",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "27.10",
+		"roof-type": "ondulated-plate"
+	},
+	{
+		"name": "Nr. 79",
+		"article": "030091",
+		"feature": "120",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "17.42",
+		"roof-type": "ondulated-plate"
+	},
+	{
+		"name": "Nr. 79",
+		"article": "030389",
+		"feature": "120",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "27.10",
+		"roof-type": "ondulated-plate"
+	},
+	{
+		"name": "Nr. 69 W",
+		"article": "030370",
+		"feature": "32",
+		"measure": "Profil5/6od.Classicu.Toscana",
+		"material": "Zink Steel",
+		"price": "24.09",
+		"roof-type": "ondulated-plate"
+	},
+	{
+		"name": "Nr. 69 W",
+		"article": "030372",
+		"feature": "32",
+		"measure": "Profil5/6od.Classicu.Toscana",
+		"material": "Painted Steel",
+		"price": "34.20",
+		"roof-type": "ondulated-plate"
+	},
+	{
+		"name": "Nr. 69 W",
+		"article": "030371",
+		"feature": "32",
+		"measure": "Profil8/9",
+		"material": "Zink Steel",
+		"price": "24.09",
+		"roof-type": "ondulated-plate"
+	},
+	{
+		"name": "Nr. 69 W",
+		"article": "030373",
+		"feature": "32",
+		"measure": "Profil8/9",
+		"material": "Painted Steel",
+		"price": "34.20",
+		"roof-type": "ondulated-plate"
+	},
+	{
+		"name": "Nr. 176 W",
+		"article": "030430",
+		"feature": "250",
+		"measure": "Profil5/6/ToscanaundClassic",
+		"material": "Zink Steel",
+		"price": "26.98",
+		"roof-type": "ondulated-plate"
+	},
+	{
+		"name": "Nr. 176 W",
+		"article": "030431",
+		"feature": "250",
+		"measure": "Profil5/6/ToscanaundClassic",
+		"material": "Painted Steel",
+		"price": "37.10",
+		"roof-type": "ondulated-plate"
+	},
+	{
+		"name": "Nr. 176 W",
+		"article": "030432",
+		"feature": "250",
+		"measure": "Profil8/9",
+		"material": "Zink Steel",
+		"price": "26.98",
+		"roof-type": "ondulated-plate"
+	},
+	{
+		"name": "Nr. 176 W",
+		"article": "030433",
+		"feature": "250",
+		"measure": "Profil8/9",
+		"material": "Painted Steel",
+		"price": "37.10",
+		"roof-type": "ondulated-plate"
+	},
+	{
+		"name": "Nr. 180",
+		"article": "040248",
+		"feature": "200",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "12.07",
+		"roof-type": "trapezoidal-sheet"
+	},
+	{
+		"name": "Nr. 180",
+		"article": "040249",
+		"feature": "200",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "16.85",
+		"roof-type": "trapezoidal-sheet"
+	},
+	{
+		"name": "Nr. 181",
+		"article": "040250",
+		"feature": "120",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "13.17",
+		"roof-type": "trapezoidal-sheet"		
+	},
+	{
+		"name": "Nr. 181",
+		"article": "040251",
+		"feature": "120",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "18.10",
+		"roof-type": "trapezoidal-sheet"
+	},
+	{
+		"name": "Nr. 182",
+		"article": "040252",
+		"feature": "32",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "9.83",
+		"roof-type": "trapezoidal-sheet"
+	},
+	{
+		"name": "Nr. 182",
+		"article": "040253",
+		"feature": "32",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "14.85",
+		"roof-type": "trapezoidal-sheet"
+	},
+	{
+		"name": "Nr. 185",
+		"article": "030484",
+		"feature": "200",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "19.55",
+		"roof-type": "trapezoidal-sheet"
+	},
+	{
+		"name": "Nr. 185",
+		"article": "030485",
+		"feature": "200",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "23.85",
+		"roof-type": "trapezoidal-sheet"
+	},
+	{
+		"name": "Nr. 186",
+		"article": "030486",
+		"feature": "32",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "19.55",
+		"roof-type": "trapezoidal-sheet"
+	},
+	{
+		"name": "Nr. 186",
+		"article": "030487",
+		"feature": "32",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "23.85",
+		"roof-type": "trapezoidal-sheet"
+	},
+	{
+		"name": "Nr. 187",
+		"article": "030488",
+		"feature": "120",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "19.55",
+		"roof-type": "trapezoidal-sheet"
+	},
+	{
+		"name": "Nr. 187",
+		"article": "030489",
+		"feature": "120",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "23.85",
+		"roof-type": "trapezoidal-sheet"
+	},
+	{
+		"name": "Retainer Holder for 1 Tube with 32 ",
+		"article": "030493",
+		"feature": "32",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "20.95",
+		"roof-type": "trapezoidal-sheet"
+	},
+	{
+		"name": "Retainer Holder for 1 Tube with 32 mm ",
+		"article": "030490",
+		"feature": "32",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "16.10",
+		"roof-type": "trapezoidal-sheet"
+	},
+	{
+		"name": "Retainer Holder for 2 Tubes with 32 mm ",
+		"article": "030491",
+		"feature": "32",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "17.50",
+		"roof-type": "trapezoidal-sheet"
+	},
+	{
+		"name": "Retainer Holder for 2 Tubes with 32 mm ",
+		"article": "030494",
+		"feature": "32",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "22.55",
+		"roof-type": "trapezoidal-sheet"
+	},
+	{
+		"name": "Retainer Holder for 3 Tubes with 32 mm ",
+		"article": "030492",
+		"feature": "32",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "19.85",
+		"roof-type": "trapezoidal-sheet"
+	},
+	{
+		"name": "Retainer Holder for 3 Tubes with 32 mm ",
+		"article": "030495",
+		"feature": "32",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "25.30",
+		"roof-type": "trapezoidal-sheet"
+	},
+	{
+		"name": "Clamp Raiser",
+		"article": "030252",
+		"feature": "28",
+		"measure": "",
+		"material": "Copper",
+		"price": "0.00",
+		"roof-type": "standing-seam-sheet"
+	},
+	{
+		"name": "Clamp Raiser",
+		"article": "030286",
+		"feature": "32",
+		"measure": "",
+		"material": "Aluminium",
+		"price": "6.20",
+		"roof-type": "standing-seam-sheet"
+	},
+	{
+		"name": "Snowstop Clamp",
+		"article": "030251",
+		"feature": "28",
+		"measure": "",
+		"material": "Copper",
+		"price": "0.00",
+		"roof-type": "standing-seam-sheet"
+	},
+	{
+		"name": "Snowstop Clamp",
+		"article": "030285",
+		"feature": "32",
+		"measure": "",
+		"material": "Aluminium",
+		"price": "7.10",
+		"roof-type": "standing-seam-sheet"
+	},
+	{
+		"name": "Retainer Holder 200 h",
+		"article": "030476",
+		"feature": "200",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "26.20",
+		"roof-type": "standing-seam-sheet"
+	},
+	{
+		"name": "Retainer Holder 200 tall",
+		"article": "030475",
+		"feature": "200",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "22.75",
+		"roof-type": "standing-seam-sheet"
+	},
+	{
+		"name": "Retainer Holder for 1-Tube",
+		"article": "030477",
+		"feature": "32",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "19.55",
+		"roof-type": "standing-seam-sheet"
+	},
+	{
+		"name": "Retainer Holder for 1-Tube",
+		"article": "030478",
+		"feature": "32",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "22.70",
+		"roof-type": "standing-seam-sheet"
+	},
+	{
+		"name": "Retainer Holder for 140 mm",
+		"article": "030473",
+		"feature": "120",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "22.50",
+		"roof-type": "standing-seam-sheet"
+	},
+	{
+		"name": "Retainer Holder for 140 mm",
+		"article": "030474",
+		"feature": "120",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "25.65",
+		"roof-type": "standing-seam-sheet"
+	},
+	{
+		"name": "Retainer Holder for 2-Tube",
+		"article": "030471",
+		"feature": "32",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "20.60",
+		"roof-type": "standing-seam-sheet"
+	},
+	{
+		"name": "Retainer Holder for 2-Tube",
+		"article": "030472",
+		"feature": "32",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "23.75",
+		"roof-type": "standing-seam-sheet"
+	},
+	{
+		"name": "Nr. 55",
+		"article": "030009",
+		"feature": "200",
+		"measure": "25x6",
+		"material": "Zink Steel",
+		"price": "4.27",
+		"roof-type": "flat-tile"
+	},
+	{
+		"name": "Nr. 55",
+		"article": "030204",
+		"feature": "200",
+		"measure": "30x8",
+		"material": "Copper",
+		"price": "0.00",
+		"roof-type": "flat-tile"
+	},
+	{
+		"name": "Nr. 60",
+		"article": "030033",
+		"feature": "200",
+		"measure": "25x6",
+		"material": "Zink Steel",
+		"price": "6.01",
+		"roof-type": "flat-tile"
+	},
+	{
+		"name": "Nr. 60",
+		"article": "030134",
+		"feature": "200",
+		"measure": "25x6",
+		"material": "Painted Steel",
+		"price": "11.70",
+		"roof-type": "flat-tile"
+	},
+	{
+		"name": "Nr. 60",
+		"article": "030035",
+		"feature": "200",
+		"measure": "30x6",
+		"material": "Zink Steel",
+		"price": "6.34",
+		"roof-type": "flat-tile"
+	},
+	{
+		"name": "Nr. 60",
+		"article": "030221",
+		"feature": "200",
+		"measure": "30x6",
+		"material": "Copper",
+		"price": "0.00",
+		"roof-type": "flat-tile"
+	},
+	{
+		"name": "Nr. 60",
+		"article": "030034",
+		"feature": "250",
+		"measure": "25x6",
+		"material": "Zink Steel",
+		"price": "6.34",
+		"roof-type": "flat-tile"
+	},
+	{
+		"name": "Nr. 60",
+		"article": "030135",
+		"feature": "250",
+		"measure": "25x6",
+		"material": "Painted Steel",
+		"price": "12.05",
+		"roof-type": "flat-tile"
+	},
+	{
+		"name": "Nr. 70",
+		"article": "030241",
+		"feature": "35",
+		"measure": "30x8",
+		"material": "Copper",
+		"price": "0.00",
+		"roof-type": "flat-tile"
+	},
+	{
+		"name": "Nr. 72",
+		"article": "030073",
+		"feature": "120",
+		"measure": "30x8",
+		"material": "Zink Steel",
+		"price": "10.00",
+		"roof-type": "flat-tile"
+	},
+	{
+		"name": "Nr. 72",
+		"article": "030154",
+		"feature": "120",
+		"measure": "30x8",
+		"material": "Painted Steel",
+		"price": "17.15",
+		"roof-type": "flat-tile"
+	},
+	{
+		"name": "Nr. 72",
+		"article": "030247",
+		"feature": "120",
+		"measure": "30x8",
+		"material": "Copper",
+		"price": "0.00",
+		"roof-type": "flat-tile"
+	},
+	{
+		"name": "Nr. 69 S",
+		"article": "030314",
+		"feature": "32",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "15.89",
+		"roof-type": "flat-tile"
+	},
+	{
+		"name": "Nr. 69 S",
+		"article": "030317",
+		"feature": "32",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "20.55",
+		"roof-type": "flat-tile"
+	},
+	{
+		"name": "Nr. 75 S",
+		"article": "030315",
+		"feature": "120",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "15.89",
+		"roof-type": "flat-tile"
+	},
+	{
+		"name": "Nr. 75 S",
+		"article": "030318",
+		"feature": "120",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "20.55",
+		"roof-type": "flat-tile"
+	},
+	{
+		"name": "Nr. 76 S",
+		"article": "030316",
+		"feature": "200",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "15.89",
+		"roof-type": "flat-tile"
+	},
+	{
+		"name": "Nr. 76 S",
+		"article": "030319",
+		"feature": "200",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "20.55",
+		"roof-type": "flat-tile"
+	},
+	{
+		"name": "Nr. 169 S",
+		"article": "030422",
+		"feature": "32",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "19.28",
+		"roof-type": "flat-tile"
+	},
+	{
+		"name": "Nr. 169 S",
+		"article": "030424",
+		"feature": "32",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "24.40",
+		"roof-type": "flat-tile"
+	},
+	{
+		"name": "Nr. 176 S",
+		"article": "030357",
+		"feature": "250",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "17.59",
+		"roof-type": "flat-tile"
+	},
+	{
+		"name": "Nr. 176 S",
+		"article": "030360",
+		"feature": "250",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "22.65",
+		"roof-type": "flat-tile"
+	},
+	{
+		"name": "Nr. 369 S",
+		"article": "030410",
+		"feature": "32",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "17.37",
+		"roof-type": "flat-tile"
+	},
+	{
+		"name": "Nr. 369 S",
+		"article": "030412",
+		"feature": "32",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "22.00",
+		"roof-type": "flat-tile"
+	},
+	{
+		"name": "Nr. 375 S",
+		"article": "030414",
+		"feature": "120",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "17.37",
+		"roof-type": "flat-tile"
+	},
+	{
+		"name": "Nr. 375 S",
+		"article": "030416",
+		"feature": "120",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "22.00",
+		"roof-type": "flat-tile"
+	},
+	{
+		"name": "Nr. 376 S",
+		"article": "030418",
+		"feature": "200",
+		"measure": "",
+		"material": "Zink Steel",
+		"price": "17.37",
+		"roof-type": "flat-tile"
+	},
+	{
+		"name": "Nr. 376 S",
+		"article": "030420",
+		"feature": "200",
+		"measure": "",
+		"material": "Painted Steel",
+		"price": "22.00",
+		"roof-type": "flat-tile"
+	}
+	]
+}

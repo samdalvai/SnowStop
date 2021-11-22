@@ -1,0 +1,646 @@
+{
+	"provinces": [
+	{
+		"name": "Agrigento",
+		"abbr": "AG",
+		"climatic-zone": "III",
+		"base-load": 0.6
+	},
+	{
+		"name": "Alessandria",
+		"abbr": "AL",
+		"climatic-zone": "I-M",
+		"base-load": 1.5
+	},
+	{
+		"name": "Ancona",
+		"abbr": "AN",
+		"climatic-zone": "I-M",
+		"base-load": 1.5
+	},
+	{
+		"name": "Aosta",
+		"abbr": "AO",
+		"climatic-zone": "I-A",
+		"base-load": 1.5
+	},
+	{
+		"name": "Arezzo",
+		"abbr": "AR",
+		"climatic-zone": "II",
+		"base-load": 1
+	},
+	{
+		"name": "Ascoli Piceno",
+		"abbr": "AP",
+		"climatic-zone": "II",
+		"base-load": 1
+	},
+	{
+		"name": "Asti",
+		"abbr": "AT",
+		"climatic-zone": "I-M",
+		"base-load": 1.5
+	},
+	{
+		"name": "Avellino",
+		"abbr": "AV",
+		"climatic-zone": "III",
+		"base-load": 0.6
+	},
+	{
+		"name": "Bari",
+		"abbr": "BA",
+		"climatic-zone": "II",
+		"base-load": 1
+	},
+	{
+		"name": "Barletta-Andria-Trani",
+		"abbr": "BT",
+		"climatic-zone": "III",
+		"base-load": 0.6
+	},
+	{
+		"name": "Belluno",
+		"abbr": "BL",
+		"climatic-zone": "I-A",
+		"base-load": 1.5
+	},
+	{
+		"name": "Benevento",
+		"abbr": "BN",
+		"climatic-zone": "III",
+		"base-load": 0.6
+	},
+	{
+		"name": "Bergamo",
+		"abbr": "BG",
+		"climatic-zone": "I-A",
+		"base-load": 1.5
+	},
+	{
+		"name": "Biella",
+		"abbr": "BI",
+		"climatic-zone": "I-A",
+		"base-load": 1.5
+	},
+	{
+		"name": "Bologna",
+		"abbr": "BO",
+		"climatic-zone": "I-M",
+		"base-load": 1.5
+	},
+	{
+		"name": "Brescia",
+		"abbr": "BS",
+		"climatic-zone": "I-A",
+		"base-load": 1.5
+	},
+	{
+		"name": "Brindisi",
+		"abbr": "BR",
+		"climatic-zone": "III",
+		"base-load": 0.6
+	},
+	{
+		"name": "Cagliari",
+		"abbr": "CA",
+		"climatic-zone": "III",
+		"base-load": 0.6
+	},
+	{
+		"name": "Caltanissetta",
+		"abbr": "CL",
+		"climatic-zone": "III",
+		"base-load": 0.6
+	},
+	{
+		"name": "Campobasso",
+		"abbr": "CB",
+		"climatic-zone": "II",
+		"base-load": 1
+	},
+	{
+		"name": "Caserta",
+		"abbr": "CE",
+		"climatic-zone": "III",
+		"base-load": 0.6
+	},
+	{
+		"name": "Catania",
+		"abbr": "CT",
+		"climatic-zone": "III",
+		"base-load": 0.6
+	},
+	{
+		"name": "Catanzaro",
+		"abbr": "CZ",
+		"climatic-zone": "III",
+		"base-load": 0.6
+	},
+	{
+		"name": "Chieti",
+		"abbr": "CH",
+		"climatic-zone": "II",
+		"base-load": 1
+	},
+	{
+		"name": "Como",
+		"abbr": "CO",
+		"climatic-zone": "I-A",
+		"base-load": 1.5
+	},
+	{
+		"name": "Cosenza",
+		"abbr": "CS",
+		"climatic-zone": "III",
+		"base-load": 0.6
+	},
+	{
+		"name": "Cremona",
+		"abbr": "CR",
+		"climatic-zone": "I-M",
+		"base-load": 1.5
+	},
+	{
+		"name": "Crotone",
+		"abbr": "KR",
+		"climatic-zone": "III",
+		"base-load": 0.6
+	},
+	{
+		"name": "Cuneo",
+		"abbr": "CN",
+		"climatic-zone": "I-A",
+		"base-load": 1.5
+	},
+	{
+		"name": "Enna",
+		"abbr": "EN",
+		"climatic-zone": "III",
+		"base-load": 0.6
+	},
+	{
+		"name": "Fermo",
+		"abbr": "FM",
+		"climatic-zone": "II",
+		"base-load": 1
+	},
+	{
+		"name": "Ferrara",
+		"abbr": "FE",
+		"climatic-zone": "II",
+		"base-load": 1
+	},
+	{
+		"name": "Florence",
+		"abbr": "FI",
+		"climatic-zone": "II",
+		"base-load": 1
+	},
+	{
+		"name": "Foggia",
+		"abbr": "FG",
+		"climatic-zone": "II",
+		"base-load": 1
+	},
+	{
+		"name": "Forlì-Cesena",
+		"abbr": "FC",
+		"climatic-zone": "I-M",
+		"base-load": 1.5
+	},
+	{
+		"name": "Frosinone",
+		"abbr": "FR",
+		"climatic-zone": "III",
+		"base-load": 0.6
+	},
+	{
+		"name": "Genoa",
+		"abbr": "GE",
+		"climatic-zone": "II",
+		"base-load": 1
+	},
+	{
+		"name": "Gorizia",
+		"abbr": "GO",
+		"climatic-zone": "II",
+		"base-load": 1
+	},
+	{
+		"name": "Grosseto",
+		"abbr": "GR",
+		"climatic-zone": "III",
+		"base-load": 0.6
+	},
+	{
+		"name": "Imperia",
+		"abbr": "IM",
+		"climatic-zone": "II",
+		"base-load": 1
+	},
+	{
+		"name": "Isernia",
+		"abbr": "IS",
+		"climatic-zone": "II",
+		"base-load": 1
+	},
+	{
+		"name": "La Spezia",
+		"abbr": "SP",
+		"climatic-zone": "II",
+		"base-load": 1
+	},
+	{
+		"name": "L'Aquila",
+		"abbr": "AQ",
+		"climatic-zone": "III",
+		"base-load": 0.6
+	},
+	{
+		"name": "Latina",
+		"abbr": "LT",
+		"climatic-zone": "III",
+		"base-load": 0.6
+	},
+	{
+		"name": "Lecce",
+		"abbr": "LE",
+		"climatic-zone": "III",
+		"base-load": 0.6
+	},
+	{
+		"name": "Lecco",
+		"abbr": "LC",
+		"climatic-zone": "I-A",
+		"base-load": 1.5
+	},
+	{
+		"name": "Livorno",
+		"abbr": "LI",
+		"climatic-zone": "III",
+		"base-load": 0.6
+	},
+	{
+		"name": "Lodi",
+		"abbr": "LO",
+		"climatic-zone": "I-M",
+		"base-load": 1.5
+	},
+	{
+		"name": "Lucca",
+		"abbr": "LU",
+		"climatic-zone": "II",
+		"base-load": 1
+	},
+	{
+		"name": "Macerata",
+		"abbr": "MC",
+		"climatic-zone": "II",
+		"base-load": 1
+	},
+	{
+		"name": "Mantua",
+		"abbr": "MN",
+		"climatic-zone": "II",
+		"base-load": 1
+	},
+	{
+		"name": "Massa and Carrara",
+		"abbr": "MS",
+		"climatic-zone": "II",
+		"base-load": 1
+	},
+	{
+		"name": "Matera",
+		"abbr": "MT",
+		"climatic-zone": "III",
+		"base-load": 0.6
+	},
+	{
+		"name": "Messina",
+		"abbr": "ME",
+		"climatic-zone": "III",
+		"base-load": 0.6
+	},
+	{
+		"name": "Milan",
+		"abbr": "MI",
+		"climatic-zone": "I-M",
+		"base-load": 1.5
+	},
+	{
+		"name": "Modena",
+		"abbr": "MO",
+		"climatic-zone": "I-M",
+		"base-load": 1.5
+	},
+	{
+		"name": "Monza and Brianza",
+		"abbr": "MB",
+		"climatic-zone": "I-M",
+		"base-load": 1.5
+	},
+	{
+		"name": "Naples",
+		"abbr": "NA",
+		"climatic-zone": "III",
+		"base-load": 0.6
+	},
+	{
+		"name": "Novara",
+		"abbr": "NO",
+		"climatic-zone": "I-M",
+		"base-load": 1.5
+	},
+	{
+		"name": "Nuoro",
+		"abbr": "NU",
+		"climatic-zone": "III",
+		"base-load": 0.6
+	},
+	{
+		"name": "Oristano",
+		"abbr": "OR",
+		"climatic-zone": "III",
+		"base-load": 0.6
+	},
+	{
+		"name": "Padua",
+		"abbr": "PD",
+		"climatic-zone": "II",
+		"base-load": 1
+	},
+	{
+		"name": "Palermo",
+		"abbr": "PA",
+		"climatic-zone": "III",
+		"base-load": 0.6
+	},
+	{
+		"name": "Parma",
+		"abbr": "PR",
+		"climatic-zone": "I-M",
+		"base-load": 1.5
+	},
+	{
+		"name": "Pavia",
+		"abbr": "PV",
+		"climatic-zone": "I-M",
+		"base-load": 1.5
+	},
+	{
+		"name": "Perugia",
+		"abbr": "PG",
+		"climatic-zone": "II",
+		"base-load": 1
+	},
+	{
+		"name": "Pesaro and Urbino",
+		"abbr": "PU",
+		"climatic-zone": "II",
+		"base-load": 1
+	},
+	{
+		"name": "Pescara",
+		"abbr": "PE",
+		"climatic-zone": "II",
+		"base-load": 1
+	},
+	{
+		"name": "Piacenza",
+		"abbr": "PC",
+		"climatic-zone": "I-M",
+		"base-load": 1.5
+	},
+	{
+		"name": "Pisa",
+		"abbr": "PI",
+		"climatic-zone": "III",
+		"base-load": 0.6
+	},
+	{
+		"name": "Pistoia",
+		"abbr": "PT",
+		"climatic-zone": "II",
+		"base-load": 1
+	},
+	{
+		"name": "Pordenone",
+		"abbr": "PN",
+		"climatic-zone": "I-A",
+		"base-load": 1.5
+	},
+	{
+		"name": "Potenza",
+		"abbr": "PZ",
+		"climatic-zone": "III",
+		"base-load": 0.6
+	},
+	{
+		"name": "Prato",
+		"abbr": "PO",
+		"climatic-zone": "II",
+		"base-load": 1
+	},
+	{
+		"name": "Ragusa",
+		"abbr": "RG",
+		"climatic-zone": "III",
+		"base-load": 0.6
+	},
+	{
+		"name": "Ravenna",
+		"abbr": "RA",
+		"climatic-zone": "I-M",
+		"base-load": 1.5
+	},
+	{
+		"name": "Reggio Calabria",
+		"abbr": "RC",
+		"climatic-zone": "III",
+		"base-load": 0.6
+	},
+	{
+		"name": "Reggio Emilia",
+		"abbr": "RE",
+		"climatic-zone": "I-M",
+		"base-load": 1.5
+	},
+	{
+		"name": "Rieti",
+		"abbr": "RI",
+		"climatic-zone": "III",
+		"base-load": 0.6
+	},
+	{
+		"name": "Rimini",
+		"abbr": "RN",
+		"climatic-zone": "I-M",
+		"base-load": 1.5
+	},
+	{
+		"name": "Rome",
+		"abbr": "RM",
+		"climatic-zone": "III",
+		"base-load": 0.6
+	},
+	{
+		"name": "Rovigo",
+		"abbr": "RO",
+		"climatic-zone": "II",
+		"base-load": 1
+	},
+	{
+		"name": "Salerno",
+		"abbr": "SA",
+		"climatic-zone": "III",
+		"base-load": 0.6
+	},
+	{
+		"name": "Sassari",
+		"abbr": "SS",
+		"climatic-zone": "III",
+		"base-load": 0.6
+	},
+	{
+		"name": "Savona",
+		"abbr": "SV",
+		"climatic-zone": "II",
+		"base-load": 1
+	},
+	{
+		"name": "Siena",
+		"abbr": "SI",
+		"climatic-zone": "III",
+		"base-load": 0.6
+	},
+	{
+		"name": "Sondrio",
+		"abbr": "SO",
+		"climatic-zone": "I-A",
+		"base-load": 1.5
+	},
+	{
+		"name": "South Sardinia",
+		"abbr": "SU",
+		"climatic-zone": "III",
+		"base-load": 0.6
+	},
+	{
+		"name": "South Tyrol",
+		"abbr": "BZ",
+		"climatic-zone": "I-A",
+		"base-load": 1.5
+	},
+	{
+		"name": "Syracuse",
+		"abbr": "SR",
+		"climatic-zone": "III",
+		"base-load": 0.6
+	},
+	{
+		"name": "Taranto",
+		"abbr": "TA",
+		"climatic-zone": "III",
+		"base-load": 0.6
+	},
+	{
+		"name": "Teramo",
+		"abbr": "TE",
+		"climatic-zone": "II",
+		"base-load": 1
+	},
+	{
+		"name": "Terni",
+		"abbr": "TR",
+		"climatic-zone": "III",
+		"base-load": 0.6
+	},
+	{
+		"name": "Trapani",
+		"abbr": "TP",
+		"climatic-zone": "III",
+		"base-load": 0.6
+	},
+	{
+		"name": "Trento",
+		"abbr": "TN",
+		"climatic-zone": "I-A",
+		"base-load": 1.5
+	},
+	{
+		"name": "Treviso",
+		"abbr": "TV",
+		"climatic-zone": "I-M",
+		"base-load": 1.5
+	},
+	{
+		"name": "Trieste",
+		"abbr": "TS",
+		"climatic-zone": "II",
+		"base-load": 1
+	},
+	{
+		"name": "Turin",
+		"abbr": "TO",
+		"climatic-zone": "I-A",
+		"base-load": 1.5
+	},
+	{
+		"name": "Udine",
+		"abbr": "UD",
+		"climatic-zone": "I-A",
+		"base-load": 1.5
+	},
+	{
+		"name": "Varese",
+		"abbr": "VA",
+		"climatic-zone": "I-M",
+		"base-load": 1.5
+	},
+	{
+		"name": "Venice",
+		"abbr": "VE",
+		"climatic-zone": "II",
+		"base-load": 1
+	},
+	{
+		"name": "Verbano-Cusio-Ossola",
+		"abbr": "VB",
+		"climatic-zone": "I-A",
+		"base-load": 1.5
+	},
+	{
+		"name": "Vercelli",
+		"abbr": "VC",
+		"climatic-zone": "I-A",
+		"base-load": 1.5
+	},
+	{
+		"name": "Verona",
+		"abbr": "VR",
+		"climatic-zone": "II",
+		"base-load": 1
+	},
+	{
+		"name": "Vibo Valentia",
+		"abbr": "VV",
+		"climatic-zone": "III",
+		"base-load": 0.6
+	},
+	{
+		"name": "Vicenza",
+		"abbr": "VI",
+		"climatic-zone": "I-A",
+		"base-load": 1.5
+	},
+	{
+		"name": "Viterbo",
+		"abbr": "VT",
+		"climatic-zone": "III",
+		"base-load": 0.6
+	}
+	]
+}

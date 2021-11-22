@@ -1,0 +1,12 @@
+{
+	"customers": [
+	{
+		"code": "40140000",
+		"name": "Cliente 1",
+		"cap": "39100",
+		"city": "Bolzano",
+		"province": "BZ",
+		"discount": "10"
+	}
+	]
+}
