@@ -3,8 +3,8 @@
  * 
  * **** SNOWSTOP DB APPLICATION ****
  * 
- * This application interacts with a databse of snowstop products and lets the user
- * interact with it by ineserting and retrieveng data
+ * This application interacts with a database of snowstop products and lets the user
+ * interact with it by inserting and retrieving data
  * 
  */
 public class App {
